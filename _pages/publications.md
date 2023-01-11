@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description: Research Paper is an output of new findings, and original positive or negative results concerning the existing method, allowing science to be advanced.
+title: PIBLICATIONS
+description: My research interest is developing novel Computational Neuroimaging methods, including Quantitative Neuroimaging, Connectome Mapping, and Machine Learning, which dedicated to propose the most straightforward and robust solutions for real scientific issues. 
 years: [2022,2021,2020,2019,2018,2017]
 nav: true
 nav_order: 1

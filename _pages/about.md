@@ -1,8 +1,9 @@
 ---
 layout: about
-title: About
+title: ABOUT
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
+#Professor, School of Computer Science and Engineering, Nanjing University of Science and Technology, China
 
 profile:
   align: right
