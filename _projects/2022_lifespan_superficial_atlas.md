@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Superficial tract atlases across lifespan 
-description: Digital brain atlases reveal postnatal development to 2 years of age in human infants
+title: Lifespan superficial tract atlases
+description: Covering the entire human lifespan and detailing the most comprehensive collection of short bundles. 
 img: assets/img/project/Lifespan_superficial_atlas/fig.png
 importance: 2
 category: Atlas
