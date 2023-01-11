@@ -2,7 +2,7 @@
 layout: page
 title: Lifespan intravoxel architecture atlases
 description: First set of lifespan atlases that capture key microstructural changes throughout 100 years of human life
-img: assets/img/project/Lifespan_intravoxel_atlas/fig.jpeg
+img: assets/img/project/Lifespan_intravoxel_atlas/fig.png
 importance: 4
 category: Atlas
 ---
@@ -32,7 +32,7 @@ Here, we introduce a set of intravoxel architecture atlases (IAA) that cover bir
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/Lifespan_intravoxel_atlas/fig2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/Lifespan_intravoxel_atlas/fig2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -41,7 +41,7 @@ Here, we introduce a set of intravoxel architecture atlases (IAA) that cover bir
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/Lifespan_intravoxel_atlas/fig3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/Lifespan_intravoxel_atlas/fig3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of our cool projects.
 nav: true
 nav_order: 2
-display_categories: [Atlas, Reconstruction]
+display_categories: [Atlas, Software]
 horizontal: false
 ---
 
