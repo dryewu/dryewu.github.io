@@ -2,7 +2,7 @@
 layout: page
 title: Superficial tract atlases across lifespan 
 description: Digital brain atlases reveal postnatal development to 2 years of age in human infants
-img: assets/img/project/Multifaceted_atlases_infant/fig.png
+img: assets/img/project/Lifespan_superficial_atlas/fig.png
 importance: 2
 category: Atlas
 ---
@@ -18,7 +18,7 @@ The brain’s deep and superficial white matter (WM) evolves at a rapid pace dur
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/Multifaceted_atlases_infant/fig1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/Lifespan_superficial_atlas/fig1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -28,7 +28,7 @@ The brain’s deep and superficial white matter (WM) evolves at a rapid pace dur
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project/Multifaceted_atlases_infant/fig2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project/Lifespan_superficial_atlas/fig2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
