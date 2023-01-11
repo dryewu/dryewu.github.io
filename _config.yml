@@ -2,7 +2,7 @@
 
 # -----------------------------------------------------------------------------
 # Site settings
-title: # the website title (if blank, full name will be used instead)
+title: Ye Wu # the website title (if blank, full name will be used instead)
 first_name: Ye Wu
 middle_name:
 last_name: Ph.D.
@@ -13,9 +13,9 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Computational Neuroimage, Diffusion MRI, Machine Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: brain.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dryewu.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -351,7 +351,7 @@ enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips:
   false # enables automatic tooltip links generated
   # for each section titles on pages and posts
-enable_darkmode: true # enables switching between light/dark modes
+enable_darkmode: false # enables switching between light/dark modes
 enable_navbar_social:
   false # enables displaying social links in the
   # navbar on the about page
