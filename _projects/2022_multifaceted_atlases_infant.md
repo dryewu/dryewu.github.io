@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Multifaceted atlases of the human brain in its infancy
+title: Multifaceted infant brain atlases
 description: Digital brain atlases reveal postnatal development to 2 years of age in human infants
-img: assets/img/project/Multifaceted_atlases_infant/fig1.min.png
+img: assets/img/project/Multifaceted_atlases_infant/fig.min.png
 importance: 1
 category: Atlas
 ---
 
     ---
-    Ahmad, S., Wu, Y., Wu, Z., Thung, K. H., Liu, S., Lin, W., ... & Yap, P. T. (2022). Multifaceted atlases of the human brain in its infancy. Nature Methods, 1-10.
+    Ahmad, S., Wu, Y., Wu, Z., Thung, K. H., Liu, S., Lin, W., ... & Yap, P. T. (2022). 
+    Multifaceted atlases of the human brain in its infancy. 
+    Nature Methods, 1-10.
     ---
 
 Brain atlases are spatial references for integrating, processing, and analyzing brain features gathered from different individuals, sources, and scales. Here we introduce a collection of joint surface–volume atlases that chart postnatal development of the human brain in a spatiotemporally dense manner from two weeks to two years of age. Our month-specific atlases chart normative patterns and capture key traits of early brain development and are therefore conducive to identifying aberrations from normal developmental trajectories. These atlases will enhance our understanding of early structural and functional development by facilitating the mapping of diverse features of the infant brain to a common reference frame for precise multifaceted quantification of cortical and subcortical changes.
