@@ -9,10 +9,11 @@ last_name: Ph.D.
 email: dr.yewu@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text:
+  #>
+  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Computational Neuroimage, Diffusion MRI, Machine Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: brain.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -113,8 +114,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: FOCI # blog_name will be displayed in your blog page
-blog_nav_title: FOCI # your blog must have a title for it to be displayed in the nav bar
+blog_name: Research # blog_name will be displayed in your blog page
+blog_nav_title: Research # your blog must have a title for it to be displayed in the nav bar
 blog_description: Freedom, Open, Cooperation, and Innovation
 permalink: /blog/:year/:title/
 
