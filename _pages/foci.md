@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /foci/
-title: FOCI
+title: FOCI LAB
 description: Laboratory of Functional Computational Imaging
 nav: true
 nav_order: 5
 ---
-
-# Bio
 
 Laboratory of Functional Computational Imaging (FOCI Lab, in preparation) was established in Nov 2022. 
 
@@ -23,9 +21,6 @@ Laboratory of Functional Computational Imaging (FOCI Lab, in preparation) was es
 
 **Cooperative academic partners:** including Harvard University, University of North Carolina at Chapel Hill, North Carolina State University, etc.
 
-
-
-# 简介
 
 焦点（FOCI）实验室（筹）Laboratory of Functional Computational Imaging于2022年11月成立，现研究团队主要成员与科研平台隶属于南京理工大学。
 

@@ -23,7 +23,7 @@ I am a professor in the Key Laboratory of Intelligent Perception and Systems for
 </p>
 
 <p align = "justify"> 
-My research interest is developing novel Computational Neuroimaging methods, including Quantitative Neuroimaging, Connectome Mapping, and Machine Learning, which dedicated to propose the most straightforward and robust solutions for real scientific issues. Current, with the ultra-fast spatial-temporal diffusion MRI, we are developing advanced analysis technologies and apply them to lifespan brain development, evolution across species, brain cognitive, and psychiatric analysis etc. To this end, we are working hard to establish a novel research environment called <b>FOCI</b> (<b>F</b>reedom, <b>O</b>pen,  <b>C</b>ooperation, and <b>I</b>nnovation).
+My research interest is developing novel Computational Neuroimaging methods, including Quantitative Neuroimaging, Connectome Mapping, and Machine Learning, which dedicated to propose the most straightforward and robust solutions for real scientific issues. Current, with the ultra-fast spatial-temporal diffusion MRI, we are developing advanced analysis technologies and apply them to lifespan brain development, evolution across species, brain cognitive, and psychiatric analysis etc. 
 </p>
 
 <b>Email: wuye@njust.edu.cn or dr.yewu@outlook.com</b>
