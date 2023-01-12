@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: page
 permalink: /foci/
 title: FOCI
 description: Laboratory of Functional Computational Imaging
