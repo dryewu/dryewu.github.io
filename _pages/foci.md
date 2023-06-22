@@ -30,12 +30,11 @@ Laboratory of Functional Computational Imaging (FOCI Lab, in preparation) was es
 
 科研思路上，FOCI意为“焦点”，聚焦前沿视角，指点健康大脑
 
-
-
 合作医疗伙伴：包括武汉协和医院、武汉大学人民医院、上海精神卫生中心、首都医科大学佑安医院、福建医科大学附属协和医院等
 
 合作学术伙伴：包括哈佛大学、北卡罗莱纳州大学大学教堂山分校、北卡州立大学等
 
+我们正在努力发起一项Connectome Atlas Project（CAP，帽子）计划，旨在构建最广泛的Atlas of Brain Connectome  （ABC）
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
