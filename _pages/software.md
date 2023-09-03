@@ -4,7 +4,7 @@ title: RESOURCE
 permalink: /resource/
 nav: true
 nav_rank: 5
-display_categories: [machine learning, statistical analysis]
+display_categories: [Software, Dataset]
 horizontal: false
 ---
 
