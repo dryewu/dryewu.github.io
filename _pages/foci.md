@@ -3,7 +3,7 @@ layout: page
 permalink: /foci/
 title: FOCI LAB
 description: Laboratory of Functional Computational Imaging
-nav: true
+nav: false
 nav_order: 5
 ---
 
