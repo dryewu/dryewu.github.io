@@ -1,124 +1,61 @@
 ---
 layout: page
-permalink: /member/
-title: MEMBERS
-description: Functional Computational Imaging (FOCI) Group
+permalink: /member
+title: MEMBER
+description:
 nav: true
-nav_order: 5
+nav_rank: 5
 ---
 
-### **Faculty**
-
-------
-
-#### **Prof. Ye Wu | 吴烨**
-
-Professor of Computer Science, Nanjing University of Science and Technlnogy
-
-Office: 4048, School of Computer Science and Engineering
-
-E-mail: [wuye@njust.edu.cn](mailto://wuye@njust.edu.cn)
-
-
-### **Students**
-
-------
-
-#### **Yifei He | 何翌菲**
-
-Computer Science
-
-B.S. Jan.2023 - Now
-
-
-
-#### **Junhao Li | 李俊浩**
-
-Mathematics
-
-B.S. Apirl.2023 - Now
-
-
-
-#### **Mingzhe Zhao | 赵明哲**
-
-Computer Science
-
-B.S. Feb.2023 - Now
-
-
-
-#### **Heyao Ma | 马赫遥**
-
-Computer Science
-
-B.S. Feb.2023 - Now
-
-
-
-#### **Miaomiao Gu | 顾苗苗**
-
-Computer Science
-
-B.S. Feb.2023 - Now
-
-
-
-#### **Tenglong Wang | 王腾龙**
-
-Computer Science
-
-M.S. 
-
-
-
-#### **Yu Xie | 谢雨**
-
-Computer Science
-
-M.S. 
-
-
-
-#### **Jiahao Yu | 于嘉豪**
-
-Computer Science
-
-M.S.
-
-
-
-### **Alumni**
-
-------
-
-#### **Wenkai Wang | 王文楷**
-
-Computer Science
-
-B.S. Sep. 2022 - June. 2023
-
-Project: 知识驱动的大规模脑白质纤维聚类算法研究
-
-
-
-#### **Qingfu | 宋庆福**
-
-Computer Science
-
-B.S. Sep. 2022 - June. 2023
-
-Project: 可扩展的智能化医学图像数据处理平台设计与开发
-
-
-
-#### **Youhua Zhang | 张佑华**
-
-Computer Science
-
-B.S. Sep. 2022 - June. 2023
-
-Project: 基于深度自编码的脑肿瘤患者异常脑网络检测研究
-
-
-
+Check out the [join](/join) page for open positions.
+
+{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
+{% for group in groups %}
+
+## {{ group }}
+    {% assign members = site.members | sort: "lastname" | where: "group", group %}
+    {% for member in members %}
+<p>
+    <div class="card {% if member.inline == false %}hoverable{% endif %}">
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+            </div>
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                    {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
+                    <h5 class="card-title">{{ member.profile.name }}</h5>
+                    {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
+                    <p class="card-text">
+                        {{ member.teaser }}
+                    </p>
+                    {% if member.inline == false %}</a>{% endif %}
+                    {% if member.profile.email %}
+                        <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
+                    {% endif %}
+                    {% if member.profile.phone %}
+                        <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>
+                    {% endif %}
+                    {% if member.profile.orcid %}
+                        <a href="https://orcid.org/{{ member.profile.orcid }}" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
+                    {% endif %}
+                    {% if member.profile.twitter %}
+                        <a href="https://twitter.com/{{ member.profile.twitter }}" class="card-link" target="_blank"><i class="fab fa-twitter"></i></a>
+                    {% endif %}
+                    {% if member.profile.github %}
+                        <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
+                    {% endif %}
+                    {% if member.profile.website %}
+                        <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
+                    {% endif %}
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</p>
+<br /> 
+    {% endfor %}
+{% endfor %}
