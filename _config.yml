@@ -163,6 +163,9 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
+  software:
+    output: true
+    permalink: /software/:path/
   members:
     output: true
     permalink: /members/:path
