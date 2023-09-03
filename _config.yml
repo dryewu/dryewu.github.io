@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1200px
+max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -117,7 +117,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: EVERYTHING # blog_name will be displayed in your blog page
 blog_nav_title: EVERYTHING # your blog must have a title for it to be displayed in the nav bar
 blog_description: EVERYTHING WOULD BE INTERESTING
-permalink: /blog/:year/:title/
+permalink: /everything/:year/:title/
 
 # Pagination
 pagination:
@@ -159,7 +159,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: #/news/:path/
   projects:
     output: true
     permalink: /projects/:path/

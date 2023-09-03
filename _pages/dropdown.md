@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MISC
-nav: true
+nav: false
 nav_order: 6
 dropdown: true
 children: 
-    - title: Conference timeline
-      permalink: /conference/
+#    - title: Conference timeline
+#      permalink: /conference/
 ---

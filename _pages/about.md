@@ -29,6 +29,6 @@ My research interest is developing novel Computational Neuroimaging methods, inc
 
 <p align = "justify"  style="background-color:Orange;"> 
 我们正在寻找本科生、研究生、访问学生、博士后的加入，如果您对我们的研究有兴趣，有强烈的好奇心和未知欲，有探索的动机和能力，有志于从0到1创造，欢迎随时与我联系 :)
-<p align = "justify"> 
+</p>
 
 <b>Email: wuye@njust.edu.cn or dr.yewu@outlook.com</b>
