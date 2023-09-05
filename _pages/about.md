@@ -9,8 +9,8 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Computational Neuroimage</p>
-    <p>Diffusion MRI</p>
+    <p>AI in medicine</p>
+    <p>Computational Medical Imaging</p>
     <p>Machine Learning</p>
 
 news: true  # includes a list of news items
@@ -28,7 +28,12 @@ My research interest is developing novel Computational Neuroimaging methods, inc
 </p>
 
 <p align = "justify"> 
-我们正在寻找本科生、研究生、访问学生、博士后的加入，如果您对我们的研究有兴趣，有强烈的好奇心和未知欲，有探索的动机和能力，有志于从0到1创造，欢迎随时与我联系 :)
+我们正在积极寻找优秀的研究生、访问学生、博士后的加入，也同时欢迎各年级本科生参与前沿科学研究，如果您对我们的研究有兴趣，有强烈的好奇心和未知欲，有探索的动机和能力，有志于从0到1的创新，欢迎随时与我联系 ：）
+
+* 机器学习、人工智能在医学辅助诊断中的应用研究
+* 医学影像处理与分析
+* 机器视觉与智能优化
 </p>
+
 
 <b>Email: wuye@njust.edu.cn or dr.yewu@outlook.com</b>
