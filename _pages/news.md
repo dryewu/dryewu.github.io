@@ -9,6 +9,8 @@ nav_order: 5
 
 |          |      |                                                                                          |
 | :------- | :--- | :--------------------------------------------------------------------------------------- |
+| Sep 2023 |      | :wave: Prof. Fan Zhang @uestc and Prof. Li Yin @wchscu visiting our group                |
+| Sep 2023 |      | :fire: Yazhe Zhai joined us as `Master student`. Welcome!                                |
 | Sep 2023 |      | :boom: Ye Wu was awarded by `Nanjing Innovation Project`                                 |
 | Sep 2023 |      | :fire: Jiahao Yu, Yu Xie, and Tenlong Wang joined us as `Master student`. Welcome!       |
 | Aug 2023 |      | :sparkles: One paper was accepted by `Chinese Medical Journal`                           |

@@ -5,15 +5,15 @@ group: Student
 group_rank: 2
 team_frontpage: true
 
-title: Yu, Jiahao
+title: Zhai, Yazhe
 description: Graduate Student
-lastname: Yu
+lastname: Zhai
 #publications: 'author^=*Zijun'
 
 teaser: 
 
 profile:
-    name: Jiahao Yu
+    name: Yazhe Zhai
     align: right
     image: members/default.png
     position: Graduate Student
