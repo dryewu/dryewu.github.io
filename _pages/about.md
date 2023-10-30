@@ -32,7 +32,9 @@ My research interest is developing novel Computational Neuroimaging methods, inc
 </p>
 
 <b>* 机器学习、人工智能在医学辅助诊断中的应用研究</b>
+
 <b>* 医学影像处理与分析</b>
+
 <b>* 机器视觉与智能优化</b>
 
 <b>Email: wuye@njust.edu.cn or dr.yewu@outlook.com</b>

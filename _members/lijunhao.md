@@ -22,10 +22,10 @@ profile:
     github: 
     twitter: 
     address: >
-        School of Computer Science and Engineering<br />
+        School of Mathematics and Statistics<br />
         Nanjing University of Science and Technology<br />
         Nanjing, China
 ---
 
-I am a undergraduate student in the Key Laboratory of Intelligent Perception and Systems for High-Dimensional Information of the Ministry of Education, School of Computer Science and Engineering, Nanjing University of Science and Technology, China.
+I am a undergraduate student in the Key Laboratory of Intelligent Perception and Systems for High-Dimensional Information of the Ministry of Education, School of Mathematics and Statistics, Nanjing University of Science and Technology, China.
 
