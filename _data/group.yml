@@ -1,26 +1,27 @@
-- title: Ph.D Students
+- title: Faculty
   type: list
   contents:
-    - <b>Saloua Naama:</b> New network systems mechanisms to support Massive Machine Learning. With K. Salamatian. 2021 - now
-    - <b>Youssouph Faye:</b> Distributed Edge Cloud Architecture for Executing AI-Based Applications. With K. Salamatian. 2022 - now
-    - <b>Johann Hugon:</b> Modeling Modern Network Traffic for Automated Machine Learning in Network Systems. With A. Busson. 2022 - now
+    - <b>Ye Wu (吴烨):</b> Professor. AI in medicine, Computational Medical Imaging, and Machine Learning
 
-- title: Postdocs
+- title: Members
   type: list
   contents:
-    - <b>Francescomaria Faticanti:</b> Network inference at the edge. 2023 - now
+    - <b>Tenglong Wang (王腾龙):</b> Master student of computer science. Computational Medical Imaging
+    - <b>Jiahao Yu (于嘉豪):</b> Master student of computer science. Medical Image Analysis
+    - <b>Yu Xie (谢雨):</b> Master student of computer science. Computational neuroimaging
+    - <b>Yazhe Zhai (翟亚哲):</b> Master student of computer science. Computational neuroimaging
+    - <b>Yifei He (何翌菲):</b> Pre-Master student of computer science. Medical Image Analysis
+    - <b>Qingwei You (尤晴苇):</b> Pre-Master student of computer science. Medical Image Analysis
+    - <b>Shuxin Cao (曹书鑫):</b> Pre-Master student of computer science. Medical Image Analysis
+    - <b>Mingzhe Zhao (赵明哲):</b> Undergraduate student of computer science. Machine Learning
+    - <b>Miaomiao Gu (顾苗苗):</b> Undergraduate student of computer science. Machine Learning
+    - <b>Heyao Ma (马赫遥):</b> Undergraduate student of computer science. Machine Learning
+    - <b>Junhao Li (李俊浩):</b> Undergraduate student of mathematics science. AI in medicine
+    - <b>Xiaoying Ye (叶晓莹):</b> Undergraduate student of computer science. Cognitive science
 
 - title: Alumni
   type: list
   contents:
-    - <b>Razanne Abu-Aisheh:</b> Context-Aware Information Gathering and Processing Towards Supporting Autonomous Systems in Industry 4.0 Scenarios. With T. Watteyne. 2018 - 2022
-
-- title: Present and Past Interns
-  type: list
-  contents:
-    - <b>Malo Jaffré.</b> M2 ENS Lyon.
-    - <b>Gaetan Nodet.</b> L3 ENS Lyon.
-    - <b>Duncan Bordin.</b> L3 ENS Lyon.
-    - <b>Ayoub Ben Ameur.</b> M2 Nokia Bell Labs
-    - <b>Hakim Ouhida.</b> M1 Université Savoie Mont Blanc
-    - <b>Setareh Nouri.</b> M2 Université Savoie Mont Blanc
+    - <b>Youhua Zhang (张佑华):</b> Graduation
+    - <b>Wenkai Wang (王文凯):</b> Graduation
+    - <b>Qingfu Song (宋庆福):</b> Graduation
