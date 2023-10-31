@@ -166,9 +166,9 @@ collections:
   software:
     output: true
     permalink: /software/:path/
-  members:
-    output: false
-    permalink: /members/:path
+#  members:
+#    output: false
+#    permalink: /members/:path
 
 news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
