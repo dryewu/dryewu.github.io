@@ -1,7 +1,7 @@
 ---
 layout: group
-title: Member
-permalink: /member/
+title: MEMBER
+permalink: /member
 description: 
 nav: true
 nav_rank: 5
