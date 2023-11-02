@@ -4,7 +4,7 @@ permalink: /customize/
 title: CUSTOMIZE
 description: Something you need to know
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 

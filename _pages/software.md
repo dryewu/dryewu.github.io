@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RESOURCE
-permalink: /resource/
+title: SOURCE
+permalink: /source/
 nav: true
 nav_rank: 5
 display_categories: [Software, Dataset]
