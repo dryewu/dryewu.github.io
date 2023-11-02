@@ -9,6 +9,11 @@ nav_order: 5
 
 |          |      |                                                                                          |
 | :------- | :--- | :--------------------------------------------------------------------------------------- |
+| Oct 2023 |      | :sound: Ye Wu gave a talk at `Dalian Maritime University`                                |
+| Oct 2023 |      | :sound: Ye Wu gave a talk at `Fujian Medical University`                                 |
+| Oct 2023 |      | :sound: Ye Wu gave a talk at `Yan-En University`                                         |
+| Sep 2023 |      | :fire: Yifei He moved to `Pre-Master student`. Welcome!                                  |
+| Sep 2023 |      | :fire: Shuxin Cao and Qingwei You joined us as `Pre-Master student`. Welcome!            |
 | Sep 2023 |      | :wave: Prof. Fan Zhang @uestc and Prof. Li Yin @wchscu visiting our group                |
 | Sep 2023 |      | :fire: Yazhe Zhai joined us as `Master student`. Welcome!                                |
 | Sep 2023 |      | :boom: Ye Wu was awarded by `Nanjing Innovation Project`                                 |
