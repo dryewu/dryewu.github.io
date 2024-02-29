@@ -3,7 +3,7 @@
   contents:
     - <b>Ye Wu (吴烨):</b> Professor. AI in medicine, Computational Medical Imaging, and Machine Learning
 
-- title: Members
+- title: Member
   type: list
   contents:
     - <b>Tenglong Wang (王腾龙):</b> Master student of computer science. Computational Medical Imaging
@@ -18,6 +18,12 @@
     - <b>Heyao Ma (马赫遥):</b> Undergraduate student of computer science. Machine Learning
     - <b>Junhao Li (李俊浩):</b> Undergraduate student of mathematics science. AI in medicine
     - <b>Xiaoying Ye (叶晓莹):</b> Undergraduate student of computer science. Cognitive science
+    - <b>Zhenxu Shang (尚振旭):</b> Undergraduate student of computer science. AI in medicine
+
+#- title: Visting student
+#  type: list
+#  contents:
+#    - <b>Xuefeng Xiao (肖薛峰):</b> Undergraduate student of computer science. AI in medicine
 
 - title: Alumni
   type: list

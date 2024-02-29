@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Neurosurgical dataset
-description: Relaxation-diffusion MRI dataset (Coming soon)
+title: {Relaxation-diffusion MRI dataset}
+description: An open relaxation-diffusion MRI dataset in neurosurgical studies
 img: assets/img/software/neurosurgical.png
-redirect: https://dryewu.github.io
+redirect: https://openneuro.org/datasets/ds004910
 importance: 1
 category: Dataset
 ---
