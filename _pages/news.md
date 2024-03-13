@@ -9,9 +9,10 @@ nav_order: 5
 
 |          |      |                                                                                          |
 | :------- | :--- | :--------------------------------------------------------------------------------------- |
-| Feb 2024 |      | :sparkles: Two paper were accepted by `ISBI`                                             |
-| Jan 2024 |      | :sparkles: Two paper were accepted by `OHBM`                                             |
-| Jan 2024 |      | :sparkles: Three paper were accepted by `ISMRM`                                          |
+| Mar 2024 |      | :sparkles: One paper was accepted by `Scientific Reports`                                |
+| Feb 2024 |      | :sparkles: Two papers were accepted by `ISBI`                                            |
+| Jan 2024 |      | :sparkles: Two papers were accepted by `OHBM`                                            |
+| Jan 2024 |      | :sparkles: Three papers were accepted by `ISMRM`                                         |
 | Jan 2024 |      | :sound: Ye Wu gave a talk at `Renji Hospital, Shanghai Jiao Tong University`             |
 | Jan 2024 |      | :sparkles: One paper was accepted by `Scientific Data`                                   |
 | Jan 2024 |      | :fire: Qiushi Gong joined us as `Research trainee`. Welcome!                             |
@@ -21,6 +22,7 @@ nav_order: 5
 | Nov 2024 |      | :fire: Zhenxu Shang joined us as `Research trainee`. Welcome!                            |
 | Aug 2023 |      | :sparkles: One paper was accepted by `Quantitative Imaging in Medicine and Surgery`      |
 | Nov 2023 |      | :fire: Xuefeng Xiao joined us as `Visting student`. Welcome!                             |
+| Oct 2023 |      | :sparkles: We won second place on QuantConn Challenge hold by MICCAI-CDMRI!              |
 | Oct 2023 |      | :sound: Ye Wu gave a talk at `Dalian Maritime University`                                |
 | Oct 2023 |      | :sound: Ye Wu gave a talk at `Fujian Medical University`                                 |
 | Oct 2023 |      | :sound: Ye Wu gave a talk at `Yan-En University`                                         |
