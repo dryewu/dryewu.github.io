@@ -9,6 +9,15 @@ nav_order: 5
 
 |          |      |                                                                                          |
 | :------- | :--- | :--------------------------------------------------------------------------------------- |
+| Sep 2024 |      | :fire: Yifei He, Qingwei You, and Shuxin Cao moved to `Master student`. Welcome!         |
+| Sep 2024 |      | :fire: Zhaoxian Ming, Yiru Huo, and Zhonghua Wan joined us as `Master student`. Welcome! |
+| Aug 2024 |      | :sparkles: Two papers were accepted by `BIBM`                                            |
+| Aug 2024 |      | :sparkles: One papers were accepted by `Journal of Data Acquisition and Processing`      |
+| Jul 2024 |      | :sound: Ye Wu gave a talk at `Southern Medical University`                               |
+| Jul 2024 |      | :sound: Ye Wu gave a talk at `South China University of Technology`                      |
+| Jul 2024 |      | :sound: Ye Wu gave a talk at `Guangdong Medical University`                              |
+| Jul 2024 |      | :sound: Ye Wu gave a talk at `Sun Yat-sen University`                                    |
+| Jun 2024 |      | :sparkles: One papers were accepted by `Patterns`                                        |
 | Mar 2024 |      | :sparkles: One paper was accepted by `Scientific Reports`                                |
 | Feb 2024 |      | :sparkles: Two papers were accepted by `ISBI`                                            |
 | Jan 2024 |      | :sparkles: Two papers were accepted by `OHBM`                                            |
@@ -62,4 +71,3 @@ nav_order: 5
 | Sep 2022 |      | :sparkles: One paper was accepted by `MLMI`                                              |
 | Aug 2022 |      | :sparkles: One paper was accepted by `NeuroImage`                                        |
 | Jul 2022 |      | :boom: Ye Wu was awarded by `Distinguished Professor of Jiangsu Province`                |
-
