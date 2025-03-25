@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="font-size:32px; "> <a href='#'>智能医学神经成像实验室</a> </p>
+subtitle: <p style="font-size:36px; "> <a href='#'>智能医学神经成像实验室</a> </p>
 profile:
   align: right
   image: Logo_alpha.png
