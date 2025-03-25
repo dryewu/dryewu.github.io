@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p style="font-size:28px; "> <a href='#'>智能医学神经成像实验室</a> </p>
+subtitle: <p style="font-size:32px; "> <a href='#'>智能医学神经成像实验室</a> </p>
 profile:
   align: right
   image: Logo_alpha.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Computer Science and Engineering</p>
-    <p>Nanjing University of Science and Technology</p>
-    <p>Nanjing, China</p>
+    <p>Nanjing University of Science and Technology, Nanjing, China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
