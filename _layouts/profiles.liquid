@@ -14,7 +14,10 @@ layout: page
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
+            {% comment %}
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+            {% endcomment %}
+            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 60 | times: 0.2}}px, (min-width: 576px) 20vw, 70vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
           {% if profile.more_info %}
