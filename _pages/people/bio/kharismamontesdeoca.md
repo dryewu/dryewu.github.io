@@ -1,0 +1,1 @@
+Kharisma's areas of focus include constitutional, criminal, and anti-trust law, public policy, and public engagement.

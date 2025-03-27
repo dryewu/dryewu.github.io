@@ -1,0 +1,3 @@
+Nick holds a Ph.D. in social and educational philosophy from the University of Louvain. His research is focused on the three following intertwined relationships: identity and education, responsibility & attention, and pedagogy & school governance.
+
+After developing a serious interest in the UAP topic following the 2023 congressional hearings, Nick began to articulate links with his academic research. This reflection led him to pen an essay on Children's Roles in UAP Disclosure and Beyond. He has also begun to think earnestly about the types of relationships that humanity could wish to develop with non-human intelligence.

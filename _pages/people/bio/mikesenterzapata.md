@@ -1,0 +1,5 @@
+Dr. Senter-Zapata is a practicing, board-certified Internal Medicine attending physician at Brigham and Women’s Hospital, an Instructor of Medicine at Harvard Medical School, and research faculty at the Healthcare Transformation Lab at Massachusetts General Hospital. His medical research focuses on how clinical decision support tools and artificial intelligence can improve healthcare delivery and medical training. He serves as the Vice President of Research at the American Medical Extended Reality Association and as an Associate Editor of the Journal of Medical Extended Reality.
+
+Dr. Senter-Zapata earned a bachelor’s degree from Harvard University in Human Evolutionary Biology and completed medical school at Washington University in St. Louis School of Medicine. He then completed Internal Medicine residency training at Brigham and Women’s Hospital/Harvard Medical School followed by a Healthcare Innovation research fellowship at Massachusetts General Hospital. 
+
+Dr. Senter-Zapata is interested in the immediate and long-term biological effects of anomalous health incidents.
