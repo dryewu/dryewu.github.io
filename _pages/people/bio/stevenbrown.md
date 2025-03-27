@@ -1,0 +1,5 @@
+Steve received his B.A. from the University of Pittsburgh and a Ph.D. from the Ohio State University. His work primarily focuses on cross-cultural philosophy of religion, virtue ethics, and the promotion of global flourishing. He has recently taken an interest in UFOs and related phenomena, exploring their potential impact on our self-understanding as humans, especially with regard to our place in the universe.
+
+Steve has [lectured on the epistemology and practical importance of recent UAP-related events in Washington, D.C.](https://www.youtube.com/watch?v=JAE35KIc1RM) and is currently working with a team of research scientists [attempting to understand the Nazca Mummies](https://www.youtube.com/watch?v=2RDgjeCYMq0).
+
+In 2023, Steve was awarded the [Alumni Award for Distinguished Teaching](https://faculty.osu.edu/faculty-success/faculty-awards/alumni-award-distinguished-teaching) for his work at Ohio State.

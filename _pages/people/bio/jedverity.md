@@ -1,0 +1,3 @@
+Jed holds a Ph.D. in Tibetan Buddhism from the University of Virginia (UVa) and has spent the span of his career at the unexpectedly fertile nexus of advanced technologies, consciousness studies, and national security. In that time, he has taught at UVa, worked as the Director of Contemplative Technologies at UVa's Contemplative Sciences Center, started up engineering businesses with Fortune 50 and defense/intelligence clients, and worked in Silicon Valley for organizations like GitHub, Inc. (part of Microsoft), where he is currently employed.
+
+Jed’s research interests are centered on bridging subjective and objective modes of knowing, non-emergent models of consciousness, and the role of institutionalized stigma in technological innovation.

@@ -5,25 +5,6 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: left
-    image: about_wuye.png
-    content: peoples/about_wuye.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>吴烨</p>
-      <p>教授、博士生导师</p>
-      <p>wuye[at]njust.edu.cn</p>
-      
-  - align: left
-    image: about_wuye.png
-    content: peoples/about_wuye.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>吴烨</p>
-      <p>教授、博士生导师</p>
-      <p>wuye[at]njust.edu.cn</p>
 ---
+
+A list of scholars and other subject matter experts doing good work in UAP studies and adjacent fields. Note that this includes both members and non-members of The Visible College. This is very much a **work in progress**, and not at all exhaustive. We expect to be adding more on a regular basis.

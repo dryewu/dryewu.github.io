@@ -1,0 +1,5 @@
+After earning a B.A. from Virginia Military Institute, John received his J.D. from Cumberland School of Law, LL.M. from Tulane Law School, and practiced law in the areas of civil rights and plaintiff litigation. Returning to graduate school, John received an M.A. in English from the University of Alabama at Birmingham, specializing in eighteenth-century British literature, critical theory, and rhetoric.
+
+John's own profound and transformative experiences in humanistic psychotherapy led him to the psychology department at the University of West Georgia, where he earned an M.A. degree. He practiced psychotherapy for several years, and later returned to receive his Ph.D. He is the author of *Trauma and the Ontology of the Modern Subject* (Routledge).
+
+John's interests include theoretical and philosophical approaches to psychology, histories of consciousness and subjectivity, and psychoanalysis.

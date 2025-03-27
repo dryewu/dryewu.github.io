@@ -1,0 +1,126 @@
+groups:
+  - label: Research Associates
+    summary: Academics and professionals who are working or have worked on research projects or other initiatives of The Visible College.
+    members:
+      - name: Janis Whitlock, Ph.D., M.P.H.
+        id: janiswhitlock
+        title: Research Scientist Emerita
+        image: janiswhitlock.jpg
+        bio: people/bio/janiswhitlock.md
+      - name: Jed Verity, Ph.D.
+        id: jedverity
+        title: Ph.D. in Tibetan Buddhism
+        image: jedverity.jpg
+        bio: people/bio/jedverity.md
+      - name: Steven Brown, Ph.D.
+        id: stevenbrown
+        title: Associate Professor of Teaching Philosophy, The Ohio State University
+        image: stevenbrown.jpg
+        bio: people/bio/stevenbrown.md
+        profile_page: /stevenbrown
+      - name: Justin Sui, Ph.D.
+        id: justinsui
+        image: justinsui.jpg
+        bio: people/bio/justinsui.md
+      - name: Nicolas Cuneen, Ph.D.
+        id: nickcuneen
+        title: Postdoctoral Fellow and lecturer, UCLouvain
+        image: nickcuneen.jpg
+        bio: people/bio/nickcuneen.md
+      - name: John L. Roberts, Ph.D.
+        id: johnlroberts
+        title: Associate Professor of Psychology, University of West Georgia
+        image: johnlroberts.jpg
+        bio: people/bio/johnlroberts.md
+      - name: Kharisma Montes de Oca, M.S.
+        id: kharismamontesdeoca
+        title: Juris Doctorate 2025 Candidate, Urban Planner, Policy Writer & Project Manager
+        image: kharismamontesdeoca.jpeg
+        bio: people/bio/kharismamontesdeoca.md
+      - name: Christian Peters, Ph.D.
+        id: christianpeters
+        title: Managing Director, Bremen International Graduate School of Social Sciences (BIGSSS), University of Bremen
+        image: christianpeters.jpeg
+        bio: people/bio/christianpeters.md
+      - name: Mike Senter-Zapata, M.D.
+        id: mikesenterzapata
+        title: Instructor of Medicine, Harvard Medical School
+        image: mikesenterzapata.jpg
+        bio: people/bio/mikesenterzapata.md
+      - name: Tania Searle, Ph.D.
+        id: taniasearle
+        image: taniasearle.jpg
+        bio: people/bio/taniasearle.md
+      - name: Alaina Hardie
+        id: alainahardie
+        title: Director of Technology
+        image: alainahardie.jpg
+        bio: people/bio/alainahardie.md
+
+  - label: Public Figures
+    summary: Scholars working publicly in UAP Studies or adjacent fields who are not directly associated with The Visible College, but whose work we consider integral to an understanding of the subject area as a whole.
+    members:
+      - name: Alexander Wendt, Ph.D.
+        id: alexanderwendt
+        title: Mershon Professor of International Security and Professor of Political Science, Ohio State
+        image: alexanderwendt.jpg
+      - name: Avi Loeb, Ph.D.
+        id: aviloeb
+        title: Frank B. Baird Jr. Professor of Science, Harvard University
+        image: aviloeb.jpg
+      - name: Beatriz Villarroel, Ph.D.
+        id: beatrizvillarroel
+        title: Astronomy Researcher at the Nordic Institute for Theoretical Physics
+        image: beatrizvillarroel.jpg
+      - name: Christopher "Kit" Green, M.D., Ph.D.
+        id: christopherkitgreen
+        title: Professor in Forensic Neuroimaging, Department of Psychiatry and Behavioral Neurosciences, Wayne State University Medical School and Detroit Medical Center<br/>Former Senior Division Analyst for Neurosciences, Central Intelligence Agency (CIA)
+        image: christopherkitgreen.jpg
+      - name: Diana Walsh Pasulka, Ph.D.
+        id: dianawalshpasulka
+        title: Professor of Religious Studies, University of North Carolina, Wilmington
+        image: dianawalshpasulka.jpg
+      - name: Garry P. Nolan, Ph.D.
+        id: garrypnolan
+        title: Executive Director of the Board, <a href='https://thesolfoundation.org/'>Sol Foundation</a><br/>Professor in the Department of Pathology, <a href='https://med.stanford.edu/profiles/garry-nolan'>Stanford University School of Medicine</a>
+        image: garrypnolan.jpg
+      - name: Harold "Hal" Puthoff, Ph.D.
+        id: haroldhalputhoff
+        title: Founder and president, EarthTech International and the Institute for Advanced Studies at Austin<br/>Former research scientist and consultant at Stanford Research Institute (SRI) and the National Security Agency (NSA)
+        image: haroldhalputhoff.jpeg
+      - name: Iya Whiteley, Ph.D.
+        id: iyawhiteley
+        title: Space Psychologist and Director of the Centre for Space Medicine, Department of Space and Climate Physics, University College London (UCL)
+        image: iyawhiteley.jpg
+      - name: J. Allen Hynek, Ph.D.
+        id: jallenhynek
+        title: Astronomer, Scientific Advisor to the US Air Force - Project Sign, Project Grudge, and Project Blue Book
+        image: jallenhynek.jpg
+      - name: Jacques Vallee, Ph.D.
+        id: jacquesvallee
+        title: Computer scientist, venture capitalist, author, ufologist, and astronomer
+        image: jacquesvallee.jpg
+      - name: James E. McDonald, Ph.D.
+        id: jamesemcdonald
+        title: Physicist, Professor of Atmospheric Sciences
+        image: jamesemcdonald.gif
+      - name: Jeffrey Kripal, Ph.D.
+        id: jeffreykripal
+        title: J. Newton Rayzor Chair in Philosophy and Religious Thought, Rice University
+        image: jeffreykripal.jpg
+      - name: Kevin Knuth, Ph.D.
+        id: kevinknuth
+        title: Professor of Physics, University at Albany
+        image: kevinknuth.jpg
+      - name: Michio Kaku, Ph.D.
+        id: michiokaku
+        title: Theoretical Physicist
+        image: michiokaku.jpg
+      - name: Stephen Finley, Ph.D.
+        id: stephenfinley
+        title: Chair of African and African American Studies, Louisiana State University
+        image: stephenfinley.jpg
+      - name: Timothy Gallaudet, Ph.D.
+        id: timothygallaudet
+        title: Former Rear Admiral, U.S. Navy<br/>Former Administrator, National Ocean and Atmospheric Administration (NOAA)
+        image: timothygallaudet.jpg
